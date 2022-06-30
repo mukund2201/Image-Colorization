@@ -1,4 +1,4 @@
-The codes and data from my GAN based image colorization experiment will be available in this repository.The notebook's goal is to familiarise me with the process of developing and testing a GAN model. Some parts of the  codes were taken from an article here: https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8
+The codes and data from my GAN based image colorization experiment will be available in this repository.The notebook's goal is to familiarise me with the process of developing and testing a GAN model.
 
 
 
