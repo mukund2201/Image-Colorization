@@ -14,3 +14,8 @@ GAN Network Architechture
 
 
 To end, this is just a practice for Deep Learning model deployment for me to better understand the whole flow and will be a stepping stone for more complicated projects in the future.
+
+Some references and parts of code taken from here: 
+https://web.eecs.umich.edu/~justincj/teaching/eecs442/projects/WI2021/pdfs/068.pdf
+https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8
+
